@@ -1,0 +1,15 @@
+attrs:
+    Figure:
+        background_fill_color: '#eff8f8'
+        border_fill_color: '#eff8f8'
+    Axis:
+        major_label_text_font: 'Nunito'
+        axis_label_text_font: 'Nunito'
+        axis_label_text_font_size: '16px'
+    Title:
+        text_font: 'Nunito'
+        text_font_size: '32px'
+        text_color: '#43b049'
+    Legend:
+        label_text_font: 'Nunito'
+        background_fill_color: '#eff8f8'
